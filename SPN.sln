@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPN", "SPN\SPN.csproj", "{AECC3E87-AC59-425F-8205-0CB7A1787FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A72E68B4-804F-47D6-97E9-8CAA14D3C0D8}"
+	ProjectSection(SolutionItems) = preProject
+		SPN\font-awesome.min.css = SPN\font-awesome.min.css
+		SPN\html5shiv.js = SPN\html5shiv.js
+		SPN\init.js = SPN\init.js
+		SPN\jquery.min.js = SPN\jquery.min.js
+		SPN\sheet.css = SPN\sheet.css
+		SPN\skel-layers.min.js = SPN\skel-layers.min.js
+		SPN\skel.css = SPN\skel.css
+		SPN\skel.min.js = SPN\skel.min.js
+		SPN\style-large.css = SPN\style-large.css
+		SPN\style-medium.css = SPN\style-medium.css
+		SPN\style-small.css = SPN\style-small.css
+		SPN\style-xlarge.css = SPN\style-xlarge.css
+		SPN\style-xsmall.css = SPN\style-xsmall.css
+		SPN\style.css = SPN\style.css
+		SPN\StyleSheet.css = SPN\StyleSheet.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECC3E87-AC59-425F-8205-0CB7A1787FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECC3E87-AC59-425F-8205-0CB7A1787FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECC3E87-AC59-425F-8205-0CB7A1787FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECC3E87-AC59-425F-8205-0CB7A1787FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

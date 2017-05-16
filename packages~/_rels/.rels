@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Microsoft.ApplicationInsights.PerfCounterCollector.nuspec" Id="Rfb80a2c7339042e7" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/57ab4249d9db4d629664b19410ad4ebc.psmdcp" Id="R886b10abb3854d10" />
+</Relationships>

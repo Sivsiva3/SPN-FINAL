@@ -1,0 +1,32 @@
+﻿table {
+	background: rgba(255,255,255,0.4);
+	border-radius: 10px;
+}
+
+body {
+	background: url("SPN.jpg") no-repeat fixed center;
+	background-size: 100%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.table {
+	background: rgba(255,255,255,0);
+}
+
+#nn{
+    visibility: hidden;
+    color: darkred;
+}
+#p{
+    visibility: hidden;
+    color: darkred;
+}
+#cp{
+    visibility: hidden;
+    color: darkred;
+}
+#c{
+    visibility: hidden;
+    color: darkred;
+}
